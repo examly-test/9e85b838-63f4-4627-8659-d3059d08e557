@@ -1,0 +1,1 @@
+if [ "`git branch -a --list  origin/backup-Node.js-Mysql-1-99857f3c-a48a-40ec-bc1a-f1c31c1408fa-2022-02-14-12-56-46`" ]; then echo "Yes"  ;else echo "no"; fi
